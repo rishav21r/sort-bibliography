@@ -20,5 +20,5 @@ This repository contains a Python script that reads a text file with bibliograph
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sort-bibliography.git
+   https://github.com/rishav21r/sort-bibliography.git
 
