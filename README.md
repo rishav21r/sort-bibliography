@@ -22,3 +22,10 @@ This repository contains a Python script that reads a text file with bibliograph
    ```bash
    https://github.com/rishav21r/sort-bibliography.git
 
+2. Navigate to the repository directory:
+   ```bash
+   cd sort-bibliography
+3. Place your bibliography text file (e.g., input.txt) in the repository directory.
+4. Run the script:
+5. ```bash
+   python sort_bibliography.py
